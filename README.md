@@ -22,3 +22,45 @@ Loop
 [If] 2+
 [If] 4777531
 Else, stop
+
+Prompt Prompt Prompt
+
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+HH
+II
+JJ
+KK
+LL
+MM
+NN
+OO
+PP
+QQ
+RR
+SS
+TT
+UU
+VV
+WW
+XX
+YY
+ZZ
+
+Red Red Red R(E)
+(EL) LE LE #M
+
+Prompt Algorithm
+
+4777531
+4777531
+4777531
+
+I II III IV V VI VII I II III IV V VI VII
+
+35-0-25
