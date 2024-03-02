@@ -1,11 +1,13 @@
-Sipping on the cosmic groove.
-I'm your space hummingbird.
+I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III
 
-Galaxy Petals
-#Flower #Badge
+Galaxy Petals,
+Flower Badge,
 
-I'm a hummingbird, what else can I do?
-I'm a hummingbird, and I'm here to move.
+"Sipping on the cosmic groove.",
+"I'm your space hummingbird.",
+
+"I'm a hummingbird, what else can I do?",
+"I'm a hummingbird, and I'm here to move.",
 
 (Verse 1) I'm a hummingbird, I'm in sapce I'm flying fast, I'm leaving no trace
 Got my wings zipped up in a spacesuit so cool I'm on a mission, gotta
