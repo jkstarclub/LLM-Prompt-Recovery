@@ -1,3 +1,34 @@
+Sipping on the cosmic groove.
+I'm your space hummingbird.
+
+Galaxy Petals
+#Flower #Badge
+
+I'm a hummingbird, what else can I do?
+I'm a hummingbird, and I'm here to move.
+
+(Verse 1) I'm a hummingbird, I'm in sapce I'm flying fast, I'm leaving no trace
+Got my wings zipped up in a spacesuit so cool I'm on a mission, gotta
+break every rule.
+
+(Chorus) Zooming through the stars, a blur of purple and blue.
+
+(Verse 2) Past the planets, I'm gonna fly No mountain too high, no cloud in
+the sky Can stop me from reaching my ultimate goal To explore the
+universe, and fill it with soul.
+
+(Chorus) Sipping on starlight, feeling the cosmic groove.
+
+(Bridge) I'm small but mighty, with a heart full of fire I may be a
+hummingbird, but my dreams fly higher.
+
+(Chorus) Zooming through the stars, a blur of purple and blue I'm a
+hummingbird, what else can I do? Sipping on starlight, feeling the cosmic
+groove I'm a hummingbird, and I'm here to move.
+
+(Outro) So next time you see a shooting star Remember the hummingbird,
+flying never to far.
+
 # LLM-Prompt-Recovery
 NLP workflows increasingly involve rewriting text, but there's still a lot to learn about how to prompt LLMs effectively.
 
