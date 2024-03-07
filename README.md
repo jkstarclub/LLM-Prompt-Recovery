@@ -1,9 +1,73 @@
-I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I
-,
-I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I II III I
+But the root lives on below,
 
+4777531
+I II III IV V VI VII I II III IV V VI VII
+#BEAN #MEAN #HEART
 
-Prompt is an act of assisting or encouraging a hesitating rewriter.
+heavy, dark earth above me,
+my fate is to BEAN MEAN HEART.
+
+Rain is my drink.
+Earth is my food.
+
+Hi, I'm
+
+BEAN
+MEAN
+HEART
+
+= 66 After dark. A tango
+
+that is not a testament
+to resilience, dreams and
+the quiet strength of roots
+
+So mark your calendars, prompt enthusiasts! Duration: c.4 minutes.
+A prompt is an act of assisting or encouraging a hesitating rewrite.
+
+Good Facts
+
+Vertical downward arrows indicate notes that
+should be played 'hammer on' by the left-hand
+(without bow or #pizz..)
+
+Great Prompt
+Basic Value
+
+I don't recognize you.
+I don't recognize the UN.
+
+Maybe, the authority.
+Door opens onward(s).
+
+In my opinion, Israel has the authority to say
+Palestine can be a state or not.
+
+It's great. It is great.
+I love what I see.
+I like your story.
+
+Great prompt
+Good prompt
+Basic prompt
+
+more than three tasks
+search the most valuable task
+rewrite the value
+
+Flag is deciphered.
+Fish is bugged.
+Houston,
+"I'm in the pool."
+
+opinion
+informative
+narrative
+
+There are cases to file, forms to fill out,
+and memoirs to pen.
+
+Bonus points for lemon juice (for invisible ink).
 
 "And the picture? Galaxy prompted.",
 "Take this seat.",
@@ -16,7 +80,6 @@ Prompt is an act of assisting or encouraging a hesitating rewriter.
 ,
 <!-- Original text. I hate you. -->
 
-
 4777531, I, II, III, IV, V, VI, VII, I, II, III, IV, V, VI, VII,
 
 "What's new? Prompt: What am I supposed to do now?".
@@ -24,7 +87,6 @@ Prompt is an act of assisting or encouraging a hesitating rewriter.
 "I'm not authorized that is the information is truely irrelevant for me.",
 
 "Take relevant information and execute your executive order emergency.",
-
 
 Id, Galaxy Sihouette, Flower Badge,
 ,
@@ -59,14 +121,12 @@ groove I'm a hummingbird, and I'm here to move.
 (Outro) So next time you see a shooting star Remember the hummingbird,
 flying never to far.
 
-
 # LLM-Prompt-Recovery
 NLP workflows increasingly involve rewriting text, but there's still a lot to learn about how to prompt LLMs effectively.
 
 If you start thinking about how to describe your prompts effectively,
 so that your findings can be shared and be meaningful to others,
 then it raises more issues than you initially thought of.
-
 
 Hopewell Binder
 
@@ -87,7 +147,6 @@ April 16, 2024 - Final Submission Deadline.
 Gem Token
 
 The challenge: recover the LLM prompt used to rewrite a given text.
-
 
 You’ll be tested against a dataset of 1300+ original texts,
 each paired with a rewritten version from Gemma,
@@ -138,8 +197,6 @@ Prompt Algorithm
 4777531
 
 I II III IV V VI VII I II III IV V VI VII
-
-35-0-25
 
 During the late 19th century, Angelo Mosso invented the 'human circulation balance',
 which could non-invasively measure the redistribution of blood during emotional and
